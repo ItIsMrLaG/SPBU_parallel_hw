@@ -1,0 +1,6 @@
+[submodule "Multi_Dijkstra_Floyd"]
+	path = Multi_Dijkstra_Floyd
+	url = git@github.com:ItIsMrLaG/Multi_Dijkstra_Floyd.git
+[submodule "Treiber_Stack"]
+	path = Treiber_Stack
+	url = git@github.com:ItIsMrLaG/Treiber_Stack.git
